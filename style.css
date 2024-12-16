@@ -21,3 +21,12 @@ body{
 img{
     border-radius: 16px;
 }
+
+h1{
+    line-height: 140%;
+    font-size: 40px;
+}
+
+h2{
+    font-size: 24px;
+}
