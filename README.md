@@ -18,6 +18,6 @@ Neste projeto reiniciei a jornada de Dev e comecei pelos conceitos básicos de F
 
 ## 📚 Contato
 
-e-mail: lucas.primati@hotmail.com
-github: [🔗 github](https://github.com/luprime)
-Linkdedl: [🔗 Linkedln](https://www.linkedin.com/in/lucas-primati/)
+- e-mail: lucas.primati@hotmail.com
+- github: [🔗 github](https://github.com/luprime)
+- Linkdedl: [🔗 Linkedln](https://www.linkedin.com/in/lucas-primati/)
